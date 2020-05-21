@@ -1,0 +1,143 @@
+#: locale=en
+
+## Tour
+
+### Title
+tour.name = Untitled 2
+
+## Skin
+
+### Button
+Button_03D37B27_0C7A_63B3_41A1_89572D8C8762.label = HOUSE INFO
+Button_03D37B27_0C7A_63B3_41A1_89572D8C8762_mobile.label = INFO
+Button_0D96A2B5_2FB9_E7EB_4184_908FF75B2FE8.label = PHOTOS
+Button_18126A3F_1663_8BEF_41A4_B0EDA1A5F4E3_mobile.label = BOOK NOW
+Button_1CA392FC_0C0A_2295_41A3_18DEA65FB6AD.label = LOCATION
+Button_1CA392FC_0C0A_2295_41A3_18DEA65FB6AD_mobile.label = LOCATION
+Button_1FE4B611_0C0A_256F_418E_EA27E66F8360.label = FLOORPLAN
+Button_1FE4B611_0C0A_256F_418E_EA27E66F8360_mobile.label = FLOORPLAN
+Button_241ECA91_30DB_B44F_41B8_8779950C0E51_mobile.label = PHOTOS
+Button_33E0F47E_11C1_A20D_419F_BB809AD89259.label = CONTACT
+Button_33E0F47E_11C1_A20D_419F_BB809AD89259_mobile.label = CONTACT
+
+### Multiline Text
+HTMLText_04FFCC2C_1216_7593_41A3_D345BDE131A2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.49vh;font-family:'Otama.ep';">11541 Timber Mountain Ave</SPAN></SPAN></DIV></div>
+HTMLText_0B1CF751_121B_B3B2_41AA_8DF6E24BB6F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#99bb1b;font-size:2.74vh;font-family:'Antonio';"><B>Located in Beautiful RED ROCK WEST Country Club</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.06vh;font-family:'Open Sans Semibold';">Delightful Red Rock Country Club home in perfect condition throughout. Nicely updated, great colors, excellent floor plan with bright, open rooms and lots of natural light. Big kitchen and family room stacked with top level appliances. The master suite is to die for, huge bedroom and balcony as well as a spa like master bath. There's an office and living room too and all of the secondary bedrooms have their own baths and walk-in closets.</SPAN></SPAN></DIV></div>
+HTMLText_0B1CF751_121B_B3B2_41AA_8DF6E24BB6F1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.96vmin;font-family:'Otama.ep';">11541 Timber Mountain Ave</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.67vmin;"><BR STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.11vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#99bb1b;font-size:3.47vmin;font-family:'Antonio';"><B>Located in Beautiful RED ROCK WEST Country Club</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.33vmin;"><BR STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.11vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.33vmin;font-family:'Open Sans Semibold';">Delightful Red Rock Country Club home in perfect condition throughout. Nicely updated, great colors, excellent floor plan with bright, open rooms and lots of natural light. Big kitchen and family room stacked with top level appliances. The master suite is to die for, huge bedroom and balcony as well as a spa like master bath. There's an office and living room too and all of the secondary bedrooms have their own baths and walk-in closets.</SPAN></SPAN></DIV></div>
+HTMLText_0DECCFED_12FA_D26D_418B_9646D02C4859.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#99bb1b;font-size:3.59vh;font-family:'Antonio';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.91vh;"><BR STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.56vh;font-family:'Open Sans Semibold';">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#99bb1b;font-size:3.59vh;font-family:'Antonio';"><B>CONTACT:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.56vh;font-family:'Open Sans Semibold';">E-mail:</SPAN><SPAN STYLE="color:#999999;font-size:1.56vh;font-family:'Open Sans Semibold';"> Info@loremipsum.com </SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.56vh;font-family:'Open Sans Semibold';">Web: </SPAN><SPAN STYLE="color:#999999;font-size:1.56vh;font-family:'Open Sans Semibold';">www.loremipsum.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.56vh;font-family:'Open Sans Semibold';">Address:</SPAN><SPAN STYLE="color:#999999;font-size:1.56vh;font-family:'Open Sans Semibold';"> line 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.56vh;font-family:'Open Sans Semibold';">Address line 2</SPAN></SPAN></DIV></div>
+HTMLText_0DECCFED_12FA_D26D_418B_9646D02C4859_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10vmin;font-family:'Otama.ep';">CONTACT</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:19.03vmin;font-family:'Otama.ep';">INFO</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#99bb1b;font-size:5.83vmin;font-family:'Antonio';"><B> </B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#99bb1b;font-size:5.83vmin;font-family:'Antonio';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5.83vmin;"><BR STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.11vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:3.61vmin;font-family:'Open Sans Semibold';">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5.83vmin;"><BR STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.11vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#99bb1b;font-size:5.83vmin;font-family:'Antonio';"><B>CONTACT:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.4vmin;font-family:'Open Sans Semibold';">E-mail:</SPAN><SPAN STYLE="color:#999999;font-size:4.4vmin;font-family:'Open Sans Semibold';"> Info@loremipsum.com </SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.4vmin;font-family:'Open Sans Semibold';">Web: </SPAN><SPAN STYLE="color:#999999;font-size:4.4vmin;font-family:'Open Sans Semibold';">www.loremipsum.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.4vmin;font-family:'Open Sans Semibold';">Address:</SPAN><SPAN STYLE="color:#999999;font-size:4.4vmin;font-family:'Open Sans Semibold';"> line 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.4vmin;font-family:'Open Sans Semibold';">Address line 2</SPAN></SPAN></DIV></div>
+HTMLText_18123A3E_1663_8BF1_419F_B7BD72D2053B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.63vh;font-family:'Otama.ep';">11541 Timber Mountain </SPAN></SPAN></DIV></div>
+HTMLText_18125A3F_1663_8BEF_4196_AE566E10BAFC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4vh;font-family:'Otama.ep';"><B>Red Rock West</B></SPAN></SPAN></DIV></div>
+HTMLText_18127A3F_1663_8BEF_4175_B0DF8CE38BFE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#99bb1b;font-size:3.09vh;font-family:'Antonio';"><B>Located in Red Rock Country Club in Beautiful South Summerlin</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.06vh;"><BR STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.06vh;"><BR STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.56vh;font-family:'Open Sans Semibold';"> </SPAN><SPAN STYLE="font-size:2.06vh;font-family:'Open Sans Semibold';">11541 Timber Mountain Ave</SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.06vh;font-family:'Open Sans Semibold';"> Las Vegas, NV 89135</SPAN></SPAN></DIV></div>
+HTMLText_18127A3F_1663_8BEF_4175_B0DF8CE38BFE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.72vmin;font-family:'Otama.ep';">11541 Timber Mountain Ave</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12.22vmin;font-family:'Otama.ep';">Red Rock West</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.03vmin;"><BR STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.11vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:5.83vmin;"><BR STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.11vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#99bb1b;font-size:5.83vmin;font-family:'Antonio';"><B>Located in Red Rock Country Club in Beautiful South Summerlin</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.11vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.11vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;font-family:'Open Sans Semibold';">11541 Timber Mountain Ave</SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;font-family:'Open Sans Semibold';">Las Vegas, NV 89135</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.11vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_20E44A5C_08CA_96A7_416C_7EF769EC30C1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:32px;font-family:'Didot';"><B>Timber Mounatin Ave</B></SPAN></SPAN></DIV></div>
+HTMLText_25DFECC9_0846_F3A1_41A5_F52B5BFFB015.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:42px;font-family:'Didot Italic';"><B>11541</B></SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.59vh;font-family:'Otama.ep';"><B>FLOORPLAN/</B></SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.92vmin;font-family:'Otama.ep';">FLOORPLAN</SPAN></SPAN></DIV></div>
+HTMLText_30F7AFD1_12F6_52B5_41AC_902D90554335.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.63vh;font-family:'Otama.ep';">CONTACT</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:11.02vh;font-family:'Otama.ep';"><B>INFO</B></SPAN></SPAN></DIV></div>
+
+### Label
+Label_0A5C65D9_16A5_98B3_41B4_573FE3033A1F.text = 11541
+Label_0B130419_16A3_7FB3_41A4_E5F9FA0AC39B.text = Timber Mountain Ave
+
+## Media
+
+### Title
+panorama_00072D0D_25E6_240F_4196_4EDC8BA8B2C6.label = 3d_loft_p2_am
+panorama_00072DF8_2599_E414_41B2_050DA1968CC2.label = 3d_loft_p3_am
+panorama_00072E6C_2599_E40C_41BD_6E67BD0AD106.label = 3d_stairs_p2_am
+panorama_03146010_25AA_1C14_4171_F789D351F6B8.label = 3d_master_p1_am
+panorama_037F0A2B_25E6_2C34_41BB_C9A46FFDB491.label = 3d_loft_p1_am
+panorama_05E1EE1C_25AA_240C_41AB_8F4AC0C792E1.label = 3d_bed1_p1_am
+panorama_06D7196E_25A6_6C0C_41BC_DEC3E8F667BB.label = 3d_bed2bath_am
+panorama_085567B3_25A6_6414_41B7_D7B243BBA8D4.label = 3d_bed2_am
+panorama_087F1A17_25AA_6C1C_4196_0616481234C4.label = 3d_master_balcony_p1_do_pm
+panorama_087F3A0D_25AA_6C0C_41A8_54FF633E8B5D.label = 3d_master_balcony_p2_am
+panorama_087F3A8B_25A9_ECF4_41B9_F349473C8A8E.label = 3d_master_closet_am
+panorama_087F4BDD_25AA_2C0C_41BE_AD04C8C1FDA1.label = 3d_master_bath_p1_am
+panorama_087F9CD2_25A9_E414_41BF_C2DF1195634E.label = 3d_master_bath_p2_am
+panorama_09A601A4_160B_5E17_41B0_D7C34A5D1330.label = 3d_stairs_p1_am
+panorama_0A45B081_259A_7CF4_41B6_57DBC8586AC2.label = 3d_master_p2_am
+panorama_0AB2C5F4_161D_C1F7_41B6_25BCB9923F79.label = 3d_back_patio_p2_am
+panorama_0B453CC5_07B9_93A1_4174_127BE824A24E.label = 3d_driveway_dc_am
+panorama_0BC5BA55_1605_4231_417B_3B0D445CF298.label = 3d_hallway_l1_p1_am
+panorama_0C41A789_07BE_7DA1_4162_49A8735C8621.label = 3d_front_sidewalk_am
+panorama_0C41E412_07BE_92A3_4185_92010AE05B1D.label = 3d_front_street_p2_am
+panorama_0C447A54_07B9_F6A7_4192_12DFC10F4FD9.label = 3d_driveway_do_am
+panorama_0C4626EA_07B9_9F63_4190_1AA33951CC39.label = 3d_front_ patio_am
+panorama_0C463747_07B9_9EA1_4176_FD4373D9CCA7.label = 3d_front_door_do_am
+panorama_0C46771F_07B9_BEA1_4194_31FE716BFF29.label = 3d_front_door_dc_am
+panorama_0C6EEF3F_246B_E40C_41A1_9F78552633D0.label = 3d_bed1bath_am
+panorama_0DC9189B_25AA_2C14_41BF_438F000FF906.label = 3d_master_balcony_p1_am
+panorama_0DCDDC46_160A_C613_41B1_3AC4D4E03D06.label = 3d_livingroom_am
+panorama_14F7C15A_247A_FC14_418E_9E4407C66F83.label = 3d_bed1_p2_am
+panorama_1EF34F3E_1149_2E21_4196_A9F9F5C1EA42.label = 3d_office_p1_dc_am
+panorama_1F65E08F_1148_F2FF_4199_3AB3CDC74310.label = 3d_office_p1_do_am
+panorama_1F66D023_114F_1227_41AD_D9031E552922.label = 3d_office_p2_am
+panorama_281640D8_0FC9_93AF_4189_F802E67AC04A.label = 3d_front_Lside_dc_am
+panorama_29C7DFCB_0FC9_8DA1_419E_F95F0A83A7E3.label = 3d_front_Lside_do_am
+panorama_2E0B2B00_084E_769F_417A_527502EFC020.label = 3d_front_entry_do_am
+panorama_2F63E751_084A_9EA1_41A1_7D35DF16A889.label = 3d_forier_dc_am
+panorama_2F90B03D_2466_3C0C_41B1_A36ADFEFB280.label = 3d_bnook_do_am
+panorama_2F910FA6_2466_E43C_41A0_C5A0A553CE53.label = 3d_hallway_l1_p3_am
+panorama_2F914017_2466_1C1C_419C_1A633B780D89.label = 3d_diningroom_am
+panorama_2F915F0F_2466_E40C_41BD_5FC6B83B023C.label = 3d_kitchen_p1_am
+panorama_2F91EEE8_2466_2434_41A5_D3E857CB33DA.label = 3d_kitchen_p2_am
+panorama_2FF10FA5_2466_643C_4198_7A4F8977D8DC.label = 3d_bnook_dc_am
+panorama_2FF90619_0FC6_BEA1_419D_C13928C5C77E.label = 3d_double_garage_do_am
+panorama_3238B3C9_249A_3C74_41BC_52BDF0825E13.label = 3d_den_am
+panorama_323C07A8_249A_2434_41BA_335142E4083F.label = 3d_bath_l1_am
+panorama_327304B5_160D_4671_4189_8145A1945CE6.label = 3d_hallway_l1_p2_do_am
+panorama_3282D2D2_160D_4233_41B5_5891EE1F5E53.label = 3d_hallway_l1_p2_dc_am
+panorama_33C53FA2_1606_C213_41B3_6AB94285DBBA.label = 3d_laundry_am
+panorama_3808822F_24AE_3C0C_41BD_F4A32C79B079.label = 3d_backyard_p1 _am
+panorama_3808A09B_24AE_1C14_416E_43BFC0F84E14.label = 3d_backyard_p2_am
+panorama_39ACA77D_24AE_E40C_419C_A508A010CF89.label = 3d_back_patio_p1_am
+panorama_3CD01EB7_2FCD_856C_4191_E20B9CEDD249.label = 3d_forier_dc_pm
+panorama_3CEC684F_163B_CE11_41B2_3DF0F75A5AE7.label = 3d_Lside_am
+panorama_3E053AC3_160A_C211_41B2_DB56DC1973C9.label = 3d_front_Rside_do_am
+video_05FC3B65_2F4A_A56B_41A9_3D3A878976E5.label = 1027991345-preview
+
+## Popup
+
+### Body
+htmlText_2B2EB4CE_085A_B3A3_4188_5BE4BB40AD53.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_20C78C6A_2FBC_85E4_41B0_BCD8689B8A93.toolTip = Day & Night
+HotspotPanoramaOverlayArea_3A8D6621_2FDD_8564_41BF_3D5545F469CE.toolTip = Day & Night
+HotspotPanoramaOverlayArea_3CC71D0C_2FCB_873C_41BA_4D9937E37451.toolTip = Day & Night
+HotspotPanoramaOverlayArea_3DBFE60F_2FCF_853C_4175_9D8374668B8A.toolTip = Day & Night
+HotspotPanoramaOverlayArea_3F64B097_2FC4_9D2C_416E_0DAB7D5F280B.toolTip = Day & Night
+
+## Action
+
+### URL
+LinkBehaviour_12C5836A_07C6_F563_4198_9AFFCD04963E.source = http://www.loremipsum.com
+
+## E-Learning
+
+### Score Name
+score1.label = Score 1
+
+### Question Screen
+quizQuestion_02D1E826_160F_4E13_41AA_CC58E2FD971B.ok = OK
+
+### Report Screen
+quizScore_02D36827_160F_4E11_4186_5A545CC75DF1.completion = Completed
+quizScore_02D36827_160F_4E11_4186_5A545CC75DF1.downloadCSV = Download .csv
+quizScore_02D36827_160F_4E11_4186_5A545CC75DF1.elapsedTime = Time
+quizScore_02D36827_160F_4E11_4186_5A545CC75DF1.items = Items Found
+quizScore_02D36827_160F_4E11_4186_5A545CC75DF1.questions = Questions
+quizScore_02D36827_160F_4E11_4186_5A545CC75DF1.questionsCorrect = Correct
+quizScore_02D36827_160F_4E11_4186_5A545CC75DF1.questionsIncorrect = Incorrect
+quizScore_02D36827_160F_4E11_4186_5A545CC75DF1.repeat = Repeat
+quizScore_02D36827_160F_4E11_4186_5A545CC75DF1.submitToLMS = Submit
+quizScore_02D36827_160F_4E11_4186_5A545CC75DF1.title = - SCORE -
+
+### Timeout Screen
+quizTimeout_02D68826_160F_4E13_41AA_DC46E35FF55E.repeat = Repeat
+quizTimeout_02D68826_160F_4E13_41AA_DC46E35FF55E.score = View Score
+quizTimeout_02D68826_160F_4E13_41AA_DC46E35FF55E.title = - TIMEOUT -
